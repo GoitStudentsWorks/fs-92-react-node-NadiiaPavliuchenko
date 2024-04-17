@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/WaterTrackerFrontend/',
+  base: '/fs-92-react-node-NadiiaPavliuchenko/',
 });
