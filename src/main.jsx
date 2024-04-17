@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
-        <BrowserRouter basename="/WaterTrackerFrontend/">
+        <BrowserRouter basename="/fs-92-react-node-NadiiaPavliuchenko/">
           <ThemeCustomThemeProvider>
             <GlobalStyle />
             <App />
